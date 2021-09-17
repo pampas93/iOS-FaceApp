@@ -1,3 +1,3 @@
 # iOS FaceApp - With grayscale heatmap
 
-![Screenshot](./testImage.jpeg?raw=true "Screenshot")
+![Screenshot](./testImage.jpg?raw=true "Screenshot")
